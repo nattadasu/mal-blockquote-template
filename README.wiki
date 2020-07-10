@@ -4,3 +4,46 @@ Blockquote Template for MyAnimeList under [[LICENSE|Creative Commons Attribution
 __TOC__
 
 == About Repo ==
+''WIP''
+
+== Sample ==
+Here is a catalogue of available templates on this repository. Picture may differ from the exact preview from MyAnimeList parsing system.
+
+=== Adentuma ===
+© 2020, nattadasu. [[adentuma.bbcode|See template code]].
+
+[[File:sample/adentuma.png]]
+
+=== Dictionary ===
+© 2020, nattadasu. Wiktionary-like design. [[dictionary.bbcode|See template code]].
+
+[[File:sample/dictionary.png]]
+
+=== Divi Blockquote ===
+©2017, Leow Hou Teng. [[diviBlockQuote.bbcode|See template code]]. [http://leowhouteng.com/style-divi-block-quotes/ See original design].
+
+[[File:sample/diviBlockQuote.png]]
+
+=== Divi Duo-Tone ===
+©2017, Leow Hou Teng. [[diviDuoTone.bbcode|See template code]]. [http://leowhouteng.com/style-divi-block-quotes/ See original design].
+
+[[File:sample/diviDuoTone.png]]
+
+=== Divi Large Quote ===
+©2017, Leow Hou Teng. [[diviLargeQuote.bbcode|See template code]]. [http://leowhouteng.com/style-divi-block-quotes/ See original design].
+
+[[File:sample/diviLargeQuote.png]]
+
+=== It Was Like Coming Home ===
+©2017, Zac Vineyard. [[itWasLikeComingHome.bbcode|See template code]]. [https://dribbble.com/shots/3460829--It-was-like-coming-home-a-new-style-for-blockquote See original design].
+
+[[File:sample/itWasLikeComingHome.png]]
+
+=== Wikipedia Simple Quote ===
+©2004, MediaWiki for Wikipedia. [[wikipediaSimple.bbcode|See template code]]. [https://en.wikipedia.org/wiki/Template:Quote See original design].
+
+[[File:sample/wikipediaSimple.png]]
+
+== Assets ==
+We have several assets of vector images in PNG to helps other in designing as they want.
+[[File:assets\serif-green-circle-transparent.png]] [[File:assets\serif-yellow-right-noframe-transparent.png]]
