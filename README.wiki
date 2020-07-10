@@ -1,5 +1,5 @@
 = nattadasu/mal-blockquote-template =
-Blockquote Template for MyAnimeList under [[LICENSE|Creative Commons Attribution 4.0 (CC BY 4.0) International]] license.
+Blockquote Template for MyAnimeList under [[LICENSE|Creative Commons Public Domain 1.0 (CC0-1.0)]] license.
 
 __TOC__
 
@@ -7,7 +7,7 @@ __TOC__
 ''WIP''
 
 == Sample ==
-Here is a catalogue of available templates on this repository. Picture may differ from the exact preview from MyAnimeList parsing system.
+Here is a catalogue of available templates on this repository. Picture may differ from the exact preview on MyAnimeList parsing system.
 
 === Adentuma ===
 © 2020, nattadasu. [[adentuma.bbcode|See template code]].
@@ -39,6 +39,11 @@ Here is a catalogue of available templates on this repository. Picture may diffe
 
 [[File:sample/itWasLikeComingHome.png]]
 
+=== Raleigh ===
+© 2020, nattadasu. [[raleigh.bbcode|See template code]].
+
+[[File:sample/raleigh.bbcode]]
+
 === Wikipedia Simple Quote ===
 ©2004, MediaWiki for Wikipedia. [[wikipediaSimple.bbcode|See template code]]. [https://en.wikipedia.org/wiki/Template:Quote See original design].
 
@@ -48,3 +53,8 @@ Here is a catalogue of available templates on this repository. Picture may diffe
 We have several assets of vector images in PNG to helps other in designing as they want.
 
 [[File:assets\serif-green-circle-transparent.png]] [[File:assets\serif-yellow-right-noframe-transparent.png]]
+
+== Contributing ==
+If you have an idea for quote template, or having some images that useful for this repo assets, you can contribute freely under [[LICENSE|CC0-1.0]] License. Any forms of contributing is hugely welcome.
+
+If you didn't have any experiences on BBCode-ing but you have an idea, issuing is also allowed.
