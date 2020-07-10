@@ -1,0 +1,13 @@
+{
+    "cSpell.dictionaryDefinitions": [
+        {
+            "name": "loremIpsum",
+            "description": "Correct Lorem Ipsum Spelling",
+            "path": "${workspaceFolder}/wordlist/loremIpsum.txt"
+        }
+    ],
+    "cSpell.dictionaries": [
+        "loremIpsum"
+    ],
+    "cSpell.language": "en,en-US"
+}

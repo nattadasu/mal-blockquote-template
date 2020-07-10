@@ -1,0 +1,6 @@
+= nattadasu/mal-blockquote-template =
+Blockquote Template for MyAnimeList under [[LICENSE|Creative Commons Attribution 4.0 (CC BY 4.0) International]] license.
+
+__TOC__
+
+== About Repo ==
