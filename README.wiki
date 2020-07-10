@@ -39,6 +39,11 @@ Here is a catalogue of available templates on this repository. Picture may diffe
 
 [[File:sample/itWasLikeComingHome.png]]
 
+=== Minimal ===
+© 2020, nattadasu. [[minimal.bbcode|See template code]].
+
+[[File:sample/minimal.png]]
+
 === Raleigh ===
 © 2020, nattadasu. [[raleigh.bbcode|See template code]].
 
