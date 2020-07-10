@@ -47,7 +47,7 @@ Here is a catalogue of available templates on this repository. Picture may diffe
 === Raleigh ===
 © 2020, nattadasu. [[raleigh.bbcode|See template code]].
 
-[[File:sample/raleigh.bbcode]]
+[[File:sample/raleigh.png]]
 
 === Wikipedia Simple Quote ===
 ©2004, MediaWiki for Wikipedia. [[wikipediaSimple.bbcode|See template code]]. [https://en.wikipedia.org/wiki/Template:Quote See original design].
