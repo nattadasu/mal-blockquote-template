@@ -46,4 +46,5 @@ Here is a catalogue of available templates on this repository. Picture may diffe
 
 == Assets ==
 We have several assets of vector images in PNG to helps other in designing as they want.
+
 [[File:assets\serif-green-circle-transparent.png]] [[File:assets\serif-yellow-right-noframe-transparent.png]]
